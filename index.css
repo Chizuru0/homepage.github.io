@@ -1,0 +1,14 @@
+body{
+    background-color: azure;
+}
+h1::first-letter{
+    color:coral;
+}
+h1{text-shadow: 5px 5px 5px rgb(130, 76, 76);
+}
+h2{font-size: 15px;
+    font-family: 'Merriweather', serif;
+}
+li{
+    list-style: none;
+}
